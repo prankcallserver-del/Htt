@@ -19,11 +19,11 @@ urllib3.disable_warnings(urllib3.exceptions.InsecureRequestWarning)
 
 # ================= CONFIGURATION =================
 BOT_TOKEN = "8879701783:AAHTfTgDWT3HWnlc1xCRgYeHu_MGolCMx5E"  # BotFather থেকে পাওয়া টোকেন
-ADMIN_ID = 7257965481  # আপনার টেলিগ্রাম Numeric User ID
+ADMIN_ID = 1849126202  # আপনার টেলিগ্রাম Numeric User ID
 
 # চ্যানেল ভেরিফাই সিস্টেমের জন্য
-CHANNEL_LINK = "https://t.me/+BdMFabj-2EhkNTE1"
-CHANNEL_ID = "-1009802956247"  # ⚠️ এখানে আপনার চ্যানেলের Numeric ID বসাতে হবে। বটকে অবশ্যই চ্যানেলের এডমিন বানাবেন।
+CHANNEL_LINK = "https://t.me/+kRLScHkVvpllYWQ1"
+CHANNEL_ID = "-1003256463633"  # ⚠️ এখানে আপনার চ্যানেলের Numeric ID বসাতে হবে। বটকে অবশ্যই চ্যানেলের এডমিন বানাবেন।
 
 user_data = {}  
 cooldowns = {}  
