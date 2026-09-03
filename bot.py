@@ -16,7 +16,7 @@ FORCE_CHANNELS = [
     {"id": "-1003256463633", "url": "https://t.me/+kRLScHkVvpllYWQ1"},
 ]
 
-BOT_NAME = "NHBD PRANK HUB"
+BOT_NAME = "NHBD PRANK HUB 2"
 BOT_USERNAME = "@Testujnch_bot"
 
 INITIAL_CREDITS = 2
