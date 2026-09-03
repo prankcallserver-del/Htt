@@ -12,7 +12,7 @@ from telegram import Update, InlineKeyboardButton, InlineKeyboardMarkup
 from telegram.ext import Application, CommandHandler, CallbackQueryHandler, MessageHandler, filters, ContextTypes
 
 # ==================== কনফিগারেশন ====================
-BOT_TOKEN = "8707267313:AAFzqkne7yUZjeNnXza6KbhHIIJMuq1v_zI"
+BOT_TOKEN = "8707267313:AAF2Gp6slMwY3vsJLinWsZyK-TNGDFfTdpU"
 ADMIN_IDS = [1849126202]
 
 FORCE_CHANNELS = [
