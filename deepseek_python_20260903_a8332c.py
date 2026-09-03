@@ -11,7 +11,7 @@ from telegram import Update, InlineKeyboardButton, InlineKeyboardMarkup
 from telegram.ext import Application, CommandHandler, CallbackQueryHandler, MessageHandler, filters, ContextTypes
 
 # ==================== কনফিগারেশন ====================
-BOT_TOKEN = "8879701783:AAHTfTgDWT3HWnlc1xCRgYeHu_MGolCMx5E"
+BOT_TOKEN = "8707267313:AAFzqkne7yUZjeNnXza6KbhHIIJMuq1v_zI"
 ADMIN_IDS = [1849126202]
 
 FORCE_CHANNELS = [
@@ -19,7 +19,7 @@ FORCE_CHANNELS = [
 ]
 
 BOT_NAME = "NHBD PRANK HUB"
-BOT_USERNAME = "@Testujnch_bot"
+BOT_USERNAME = "@nhbd_call_bot"
 BOT_VERSION = "v2.2"
 
 INITIAL_CREDITS = 2
