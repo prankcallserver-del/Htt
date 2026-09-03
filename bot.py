@@ -8,19 +8,19 @@ from telegram import Update, InlineKeyboardButton, InlineKeyboardMarkup
 from telegram.ext import Application, CommandHandler, CallbackQueryHandler, MessageHandler, filters, ContextTypes
 
 # ==================== কনফিগারেশন ====================
-BOT_TOKEN = "YOUR_BOT_TOKEN_HERE"
-ADMIN_IDS = [123456789]  # আপনার টেলিগ্রাম আইডি দিন
+BOT_TOKEN = "8879701783:AAHTfTgDWT3HWnlc1xCRgYeHu_MGolCMx5E"
+ADMIN_IDS = [1849126202]  # আপনার টেলিগ্রাম আইডি দিন
 
 # ===== মাল্টিপল চ্যানেল সাপোর্ট =====
 # একাধিক চ্যানেল অ্যাড করুন (পাবলিক ও প্রাইভেট উভয়)
 FORCE_CHANNELS = [
-    {"id": "-1001234567890", "url": "https://t.me/channel1"},  # প্রাইভেট চ্যানেল
-    {"id": "@public_channel", "url": "https://t.me/public_channel"},  # পাবলিক চ্যানেল
+    {"id": "-1003256463633", "url": "https://t.me/+kRLScHkVvpllYWQ1"},  # প্রাইভেট চ্যানেল
+      # পাবলিক চ্যানেল
     # আরো চ্যানেল যোগ করুন
 ]
 
 BOT_NAME = "NHBD PRANK HUB"
-BOT_USERNAME = "@your_bot_username"
+BOT_USERNAME = "@Testujnch_bot"
 
 INITIAL_CREDITS = 2
 REFERRAL_REWARD = 2
