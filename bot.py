@@ -11,7 +11,7 @@ from telegram import Update, InlineKeyboardButton, InlineKeyboardMarkup
 from telegram.ext import Application, CommandHandler, CallbackQueryHandler, MessageHandler, filters, ContextTypes
 
 # ==================== কনফিগারেশন ====================
-BOT_TOKEN = "8879701783:AAHTfTgDWT3HWnlc1xCRgYeHu_MGolCMx5E"
+BOT_TOKEN = "8707267313:AAFzqkne7yUZjeNnXza6KbhHIIJMuq1v_zI"
 ADMIN_IDS = [1849126202]
 
 FORCE_CHANNELS = [
@@ -19,7 +19,7 @@ FORCE_CHANNELS = [
 ]
 
 BOT_NAME = "NHBD PRANK HUB"
-BOT_USERNAME = "@Testujnch_bot"
+BOT_USERNAME = "@nhbd_call_bot"
 BOT_VERSION = "v2.2"
 
 INITIAL_CREDITS = 2
@@ -821,14 +821,14 @@ async def button_handler(update: Update, context: ContextTypes.DEFAULT_TYPE):
 
 ━━━━━━━━━━━━━━━━━━━
 🎭 **উপলব্ধ প্রাঙ্ক আইডি:**
-• 8810 - গার্লফ্রেন্ড
-• 8805 - দুর্গন্ধ
-• 8808 - ওয়াই-ফাই
-• 8809 - কেন কল?
-• 8803 - পিজ্জা
-• 8804 - ট্যাক্সি
-• 8806 - হৈচৈ
-• 8807 - কুকুর
+    "8810": আপনি আমার গার্লফ্রেন্ডকে কল করেন কেন?
+    "8805": গাজার মতো দুর্গন্ধ!
+    "8808": আপনি আমার ওয়াই-ফাই চুরি করছেন!
+    "8809": আপনি কেন আমাকে কল করেন?
+    "8803": পিজ্জা ডেলিভারি",
+    "8804": আপনার ট্যাক্সি আপনার জন্য অপেক্ষা করছে
+    "8806": আপনার কামরার হৈচৈ আওয়াজ
+    "8807": আপনার কুকুরটি খুবই ক্লান্তিকর!
 
 💰 **ক্রেডিট খরচ:** ১ প্রতি কলে
 
