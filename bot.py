@@ -286,7 +286,7 @@ def get_permanent_keyboard(user_id=None):
         if user_id and user_id in ADMIN_IDS:
             keyboard.append([InlineKeyboardButton("👑 অ্যাডমিন প্যানেল", callback_data="admin_panel")])
         
-        keyboard.append([InlineKeyboardButton("👨‍💻 ডেভেলপার", url="https://t.me/nhbd_dev")])
+        keyboard.append([InlineKeyboardButton("👨‍💻 ডেভেলপার", url="https://t.me/noobxvau")])
         
         for channel in channels:
             if channel and channel.get("url"):
