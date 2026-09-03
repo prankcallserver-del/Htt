@@ -15,7 +15,7 @@ from telegram.ext import (
 )
 
 # SSL Warning হাইড করার জন্য
-urllib3.disable_warnings(urllib3.exceptions.InsecureRequestWarning)
+urllib3.disable_warnings(urllib3.exceptions.InsecureRequeWarning)
 
 # ================= CONFIGURATION =================
 BOT_TOKEN = "8879701783:AAHTfTgDWT3HWnlc1xCRgYeHu_MGolCMx5E"  # BotFather থেকে পাওয়া টোকেন
