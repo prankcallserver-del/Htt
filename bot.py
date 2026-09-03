@@ -9,8 +9,8 @@ from telegram.ext import Application, CommandHandler, CallbackQueryHandler, Mess
 # ==================== কনফিগারেশন ====================
 BOT_TOKEN = "8879701783:AAHTfTgDWT3HWnlc1xCRgYeHu_MGolCMx5E"
 ADMIN_IDS = [123456789]
-FORCE_CHANNEL_USERNAME = "@your_channel"
-FORCE_CHANNEL_URL = "https://t.me/your_channel"
+FORCE_CHANNEL_USERNAME = "nhbdotpmethod"
+FORCE_CHANNEL_URL = "https://t.me/nhbdotpmethod"
 BOT_NAME = "NHBD PRANK HUB"
 BOT_USERNAME = "@your_bot_username"
 
